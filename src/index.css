@@ -1,0 +1,70 @@
+.spinner{
+  width: 40px;
+  margin-top: 200px;
+  margin-left: 580px;
+}
+.card1{
+  margin-left: 500px;
+  margin-top: 25px;
+  /* width: 200px; */
+  /* height: 200px; */
+}
+.btn{
+  margin-left: 20px;
+}
+.btn-primary{
+  margin-left: -2px;
+}
+.card-img-top{
+  width: 270px;
+  height: 170px;
+}
+
+/* .d-block{
+  width: 60px;
+  height: 200px;
+} */
+/* body{
+  width : 200px;
+} */
+.carousel-item{
+  margin-top:30px;
+  width : 300px;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+
+
+/* live api crud */
+.container{
+  width : 600px;
+  /* height : 300px; */
+  line-height: 0.6;
+}
+.adduser1{
+  color: rgb(2, 65, 136);
+  margin-left: 200px;
+}
+/* .table{
+  margin-top: 10px;
+  color:rgb(5, 97, 189);
+} */
+.thcolor{
+  color:rgb(254, 255, 255);
+  background-color:rgb(10, 89, 163);
+}
+.nav-link{
+  margin-top: -20px;
+  color: "#18774e"
+ }
+
+.img{
+  color: "#18774e" 
+}
+.update{
+  color: rgb(6, 69, 129);
+  margin-left: 200px;
+}
+.db{
+  margin-left:-30;
+}
